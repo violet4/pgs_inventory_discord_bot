@@ -1,0 +1,6 @@
+# fill this out and save it as env.txt
+# get a token by following the tutorial at https://realpython.com/how-to-make-a-discord-bot-python/
+DISCORD_TOKEN=
+
+# used to authorize admin commands
+owner_user_id=
